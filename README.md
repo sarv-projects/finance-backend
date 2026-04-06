@@ -19,8 +19,8 @@ A FastAPI-based backend system for managing financial records with role-based ac
 
 ```bash
 cd finance-backend
-pip install fastapi uvicorn pydantic email-validator
-uvicorn main:app --reload
+uv sync
+uv run uvicorn main:app --reload
 ```
 
 Server runs on http://localhost:8000  
