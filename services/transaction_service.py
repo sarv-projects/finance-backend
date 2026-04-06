@@ -1,6 +1,6 @@
 
-from ..repositories.transaction_repo import TransactionRepo
-from ..models.transaction import TransactionCreate
+from repositories.transaction_repo import TransactionRepo
+from models.transaction import TransactionCreate
 from datetime import datetime
 from typing import Optional
 

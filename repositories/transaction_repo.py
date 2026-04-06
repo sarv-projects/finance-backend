@@ -1,4 +1,4 @@
-from ..models.transaction import TransactionCreate
+from models.transaction import TransactionCreate
 
 
 class TransactionRepo:

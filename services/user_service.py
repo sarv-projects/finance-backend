@@ -1,5 +1,5 @@
-from ..repositories.user_repo import UserRepo
-from ..models.user import UserCreate, UserUpdate
+from repositories.user_repo import UserRepo
+from models.user import UserCreate, UserUpdate
 from typing import Optional
 
 class UserService:

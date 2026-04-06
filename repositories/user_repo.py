@@ -1,4 +1,4 @@
-from ..models.user import UserCreate, User
+from models.user import UserCreate, User
 from datetime import datetime
 from typing import Optional
 
